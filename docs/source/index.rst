@@ -10,10 +10,13 @@ Contents
 
 .. toctree::
 
-   PICam Installation
-   API
-   Execution
+   usage
+   aPI
+   
    
 
 
  Documentation is hosted on Read the Docs.
+
+
+
